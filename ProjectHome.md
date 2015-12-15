@@ -1,0 +1,1 @@
+Recognition based on palm details
